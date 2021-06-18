@@ -211,7 +211,7 @@ function (_React$Component) {
 
       return react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "demo__root demo__root--default"
-      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("header", null, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", null, "React Syntax Highlighter Demo"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_examples_links__WEBPACK_IMPORTED_MODULE_8__["default"], null)), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("main", null, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("aside", {
+      }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("header", null, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("h1", null, "React Syntax Highlighter"), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement(_examples_links__WEBPACK_IMPORTED_MODULE_8__["default"], null)), react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("main", null, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("aside", {
         className: "options__container"
       }, react__WEBPACK_IMPORTED_MODULE_5___default.a.createElement("div", {
         className: "options__option options__option--language"

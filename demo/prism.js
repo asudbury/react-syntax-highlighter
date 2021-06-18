@@ -50,7 +50,7 @@ export default uniquePropHOC(["time", "seconds"])(Expire);
     return (
       <div className="demo__root demo__root--default">
         <header>
-          <h1>React Syntax Highlighter Demo</h1>
+          <h4>React Syntax Highlighter</h4>
           <ExamplesLinks />
         </header>
 

@@ -1,10 +1,5 @@
 ## React Syntax Highlighter
 
-[![Actions Status](https://github.com/react-syntax-highlighter/react-syntax-highlighter/workflows/Node%20CI/badge.svg)](https://github.com/conorhastings/react-syntax-highlighter/actions)
-[![npm](https://img.shields.io/npm/dm/react-syntax-highlighter.svg?style=flat-square)](https://www.npmjs.com/package/react-syntax-highlighter)
-
-<!-- [![codecov](https://codecov.io/gh/conorhastings/react-syntax-highlighter/branch/master/graph/badge.svg)](https://codecov.io/gh/conorhastings/react-syntax-highlighter) -->
-
 Syntax highlighting component for `React` using the seriously super amazing <a href="https://github.com/wooorm/lowlight">lowlight</a> and <a href="https://github.com/wooorm/refractor">refractor</a> by <a href="https://github.com/wooorm">wooorm</a>
 
 Check out a small demo <a href="https://react-syntax-highlighter.github.io/react-syntax-highlighter/demo/">here</a> and see the component in action highlighting the generated test code <a href="https://conorhastings.github.io/redux-test-recorder/demo/">here</a>.
@@ -126,37 +121,3 @@ Access via the `supportedLanguages` static field.
 ```js
 SyntaxHighlighter.supportedLanguages;
 ```
-
-### Built with React Syntax Highlighter
-
-- [mdx-deck](https://github.com/jxnblk/mdx-deck) - MDX-based presentation decks
-- [codecrumbs](https://github.com/Bogdan-Lyashenko/codecrumbs) - Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing.
-- [Spectacle Editor](https://github.com/FormidableLabs/spectacle-editor) - An Electron based app for creating, editing, saving, and publishing Spectacle presentations. With integrated Plotly support.
-- [Superset](https://github.com/airbnb/superset) - Superset is a data exploration platform designed to be visual, intuitive, and interactive.
-- [Daydream](https://github.com/segmentio/daydream) - A chrome extension to record your actions into a [nightmare](https://github.com/segmentio/nightmare) script
-- [CodeDoc](https://github.com/B1naryStudio/CodeDoc) - Electron based application build with React for creating project documentations
-- [React Component Demo](https://github.com/conorhastings/react-component-demo) - A React Component To make live editable demos of other React Components.
-- [Redux Test Recorder](https://github.com/conorhastings/redux-test-recorder) - a redux middleware to automatically generate tests for reducers through ui interaction. Syntax highlighter used by react plugin.
-- [GitPoint](https://github.com/gitpoint/git-point) - GitHub for iOS. Built with React Native. (built using react-native-syntax-highlighter)
-- [Yoga Layout Playground](https://yogalayout.com/playground) - generate code for yoga layout in multiple languages
-- [Kibana](https://github.com/elastic/kibana) - browser-based analytics and search dashboard for Elasticsearch.
-- [Golangci Web](https://github.com/golangci/golangci-web)
-- [Storybook Official Addons](https://github.com/storybooks/storybook)
-- [Microsoft Fast DNA](https://github.com/Microsoft/fast-dna/)
-- [Alibaba Ice](https://github.com/alibaba/ice)
-- [Uber BaseUI Docs](https://github.com/uber-web/baseui)
-- [React Select Docs](https://github.com/JedWatson/react-select)
-- [Auto-layout](https://github.com/0123cf/auto-layout) - use flex layout
-- [npmview](https://github.com/pd4d10/npmview) - A web application to view npm package files
-- [Static Forms](https://www.staticforms.xyz) - Free HTML forms for your static websites.
-- [React DemoTab](https://github.com/mkosir/react-demo-tab) - A React component to easily create demos of other components
-- [codeprinter](https://github.com/jaredpetersen/codeprinter) - Print out code easily
-- [Neumorphism](https://www.neumorphism.io) - CSS code generator for Soft UI/Neumorphism shadows
-- [grape-ui](https://www.grapeui.com) - Component library using styled-system and other open source components.
-- [✅ Good Arduino Code](https://goodarduinocode.com) - A curated library of Arduino Coding examples
-
-If your project uses react-syntax-highlighter please send a pr to add!
-
-### License
-
-MIT

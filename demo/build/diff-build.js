@@ -120,7 +120,7 @@ var REMOVED = [6];
 function DiffHighlight() {
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "demo__root demo__root--diff"
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("header", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", null, "React Syntax Highlighter Demo"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_examples_links__WEBPACK_IMPORTED_MODULE_4__["default"], null)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("main", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("header", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", null, "React Syntax Highlighter"), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_examples_links__WEBPACK_IMPORTED_MODULE_4__["default"], null)), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("main", null, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "example__container"
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     style: {

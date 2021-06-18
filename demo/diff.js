@@ -22,7 +22,7 @@ function DiffHighlight() {
   return (
     <div className="demo__root demo__root--diff">
       <header>
-        <h1>React Syntax Highlighter Demo</h1>
+        <h4>React Syntax Highlighter</h4>
         <ExamplesLinks />
       </header>
 
@@ -81,7 +81,7 @@ function DiffHighlight() {
 
     return (
       <div>
-        <h1 style={h1Style}>React SyntaxHighlighter</h1>
+        <h4 style={h1Style}>React SyntaxHighlighter</h4>
         <div style={{paddingTop: 20, display: 'flex'}}>
           <div style={{flex: 1, width: '100%', flexDirection: 'column'}}>
             <SyntaxHighlighter
